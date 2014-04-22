@@ -1,0 +1,5 @@
+﻿Generaciones = 100
+Poblacion = 1000
+Crossover = 0.2
+Mutacion = 0.7
+PresupuestoMax = 200000000
