@@ -7,8 +7,12 @@
 
 ## Valores por defecto:
 Los valores por defecto se especifican en la clase Config, y son los siguientes:
+
 1. generaciones = 100000;
 2. poblacion = 40;
 3. crossover = 0.5;
 4. mutacion = 0.1;
 5. presupuesto_max = 600000000;
+
+## Repositorio:
+https://github.com/muZk/T1-EVOL (subida 53 minutos tarde)
